@@ -1,3 +1,3 @@
 <h1>Probando GitHub</h1>
 
-- Probando Git Hub
+- Iniciando en Git Hub
